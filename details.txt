@@ -1,0 +1,4 @@
+go mod init github.com/subhamsarangi/go-movies-api
+
+got get "github.com/gorilla/mux"
+
